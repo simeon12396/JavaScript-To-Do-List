@@ -1,0 +1,11 @@
+.list-item {
+  list-style: none;
+  font-size: 1.3rem;
+  margin-bottom: .5rem;
+  display: flex;
+  justify-content: space-between;
+}
+
+.collection {
+  padding: 0;
+}
